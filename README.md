@@ -5,8 +5,7 @@ A fully responsive Netflix India Clone Website built using HTML, CSS, and JavaSc
 ## 🔗 Links
 
 - **GitHub Repository**: [Netflix-Clone-Task-3](https://github.com/sreesahithikakumani/Netflix-Clone-Task-3)
-- **Live Demo**: [View Live Site](#) *(Add your live demo URL here)*
-
+- **Live Demo**:
 ## 📝 Description
 
 This project is a responsive clone of the Netflix India website. It showcases modern web design principles with a clean, user-friendly interface that works seamlessly across all devices.
@@ -48,27 +47,17 @@ Simply open the project in your browser and explore the Netflix clone interface.
 ```
 Netflix-Clone-Task-3/
 ├── index.html
-├── styles.css
+├── styles.c
 ├── script.js
 └── README.md
 ```
 
 ## 🎨 Screenshots
+<img width="1366" height="768" alt=ss"Screenshot (16)" src="https://github.com/user-attachments/assets/3b14fbda-495c-40d5-bfdd-041dcf908673" />
 
-*(Add screenshots of your project here)*
-
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests for any improvements!
-
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ## 👤 Author
 
 **Sree Sahithi Kakumani**
 
 ---
-
-Made with ❤️ by [sreesahithikakumani](https://github.com/sreesahithikakumani)
